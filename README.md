@@ -1,8 +1,8 @@
 ## 🌟 Olá! Eu sou Alvaro D. Wisky
-Fisioterapeuta | Psicanalista de formação 🧠 e entusiasta da tecnologia 💻✨. Estou embarcando em uma jornada fascinante no mundo do desenvolvimento, conectando minha experiência em psicologia com soluções inovadoras que façam diferença. 
+Fisioterapeuta | Psicanalista de formação 🧠 e entusiasta da tecnologia 💻✨. Estou embarcando em uma jornada fascinante no mundo da tecnologia, programação e criação. 
 
 💬 Vamos trocar ideias?
-🚀 Jornada: Psicanálise → Tecnologia
+🚀 Jornada: Tecnologia
 🤝 Foco em: Aprender, criar e impactar!
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=alvarowisky&show_icons=true&locale=pt-BR&theme=vue&rank_icon=github)
