@@ -1,4 +1,4 @@
-## 🌟 Olá! Eu sou Álvaro D. Wisky
+## 🌟 Olá! Eu sou Alvaro D. Wisky
 Fisioterapeuta | Psicanalista de formação 🧠 e entusiasta da tecnologia 💻✨. Estou embarcando em uma jornada fascinante no mundo do desenvolvimento, conectando minha experiência em psicologia com soluções inovadoras que façam diferença. 
 
 💬 Vamos trocar ideias?
