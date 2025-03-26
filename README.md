@@ -13,3 +13,5 @@ Fisioterapeuta | Psicanalista de formação 🧠 e entusiasta da tecnologia 💻
 - Inteligência Artificial
 - Games
 - Criação de Programas
+
+![Pac-Man Animation](pacman-animation.svg)
